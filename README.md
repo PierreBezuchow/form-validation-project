@@ -1,5 +1,7 @@
 # form-validation-project
 
+Simple project to train regular expressions
+
 UI created with Bootstrap
 
 ### Validation (on blur event):
